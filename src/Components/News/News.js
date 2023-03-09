@@ -173,6 +173,7 @@ class News extends Component {
             </Box>
         </Box>
         <Button  sx={{ border:'1px solid #F0723E', background:'#F0723E;',padding:'15px 50px' ,color:'#000',mt:"20px",borderRadius:'30px' }}>LEARN MORE</Button>
+        <Box width={'100%'} height={'10px'} bgcolor={'rgba(240, 114, 62, 1)'}></Box>
       </Box>
     );
   }
