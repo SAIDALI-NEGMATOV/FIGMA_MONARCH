@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Box, Typography, Button } from "@mui/material";
+import { Box, Typography } from "@mui/material";
 import logo from "../Images/logo.png";
 import Neft from "../Images/neft.jpg";
 import analitic from "../Images/analitic.jpg";
